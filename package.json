@@ -1,0 +1,8 @@
+{
+  "name": "my-webpack-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FantasyNJ/my-webpack-template.git",
+  "author": "宁杰 <ningjie@qijiayoudao.com>",
+  "license": "MIT"
+}
