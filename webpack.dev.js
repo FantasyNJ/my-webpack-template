@@ -43,6 +43,9 @@ const devConfig = {
   },
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
+    new webpack.DefinePlugin({
+      isDEV: true
+    }),
   ],
   devServer: {
     port: '3001', //默认是8080
